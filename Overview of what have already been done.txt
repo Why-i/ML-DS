@@ -1,0 +1,29 @@
+09.11.2023r.
+
+-Data Viz and EDA - importing data to code space and plotting interesting (in author's mind) features.
+-Pandas Library - not related
+-Bilionaire Data Visualization - data insight !
+-Model Validation and Testing: A Step-by-Step Guide - EDA, data cleaning, introduction to data, statistics and overview !
+-Billionaires Statistics Dataset EDA and Statistics - Statistics and EDA
+-Basic Visualisation - data visualisation
+-Billionaires Statistics Dataset EDA - data insight and statistics
+-Machine Learning final exam with K-mean cluster - data clusterisation
+-Billionaire Data Visualization - data visualisation
+-The age of French billionaires: Data Insight
+-Billionaires Statistics 2023: Data Insight
+-notebook1d820edb77: Data Insight!
+-regressionon_millionairedatas: Data Insight
+-A brief study of billonaires: Data Insight
+-Billionaires EDA in R: Data Insight and Interesting Packages!
+-Data Analysis - Billionaires Dataset (2023): Data Insight
+-Advance EDA and Visualization - Billionaires: Data Insight!!
+-Bilionares Statistic 2023 - Data Insight: Data Insight
+-first phython notebook - first lessons of python nth important
+-My First Scatter - empty 
+-Billionaires Analysis in Python - operations on data, nice visualizations, managing NaN values, !!
+-Billionaires_Statistics_2023 - data insight, visualization, data cleaning
+-Quick view of Billionaires Statistics Dataset- head of data
+-billionaires_data_cleaning - data cleaning, basic visualization
+-Billionaires' Journey: Unraveling the Wealth - Nice graphs
+-an-introduction-to-billionaires-statistics-dataset- nice visualization, corelation graphs !
+-Analysis of Billionaires Statistics Dataset - graphs basic corelations !
